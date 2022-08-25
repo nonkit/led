@@ -1,5 +1,5 @@
 
-> このページを開く [https://nonkit.github.io/led/](https://nonkit.github.io/led/)
+> このページを開く [https://nonkit.github.io/microbit-led/](https://nonkit.github.io/microbit-led/)
 
 ## 拡張機能として使用
 
@@ -8,7 +8,7 @@
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **新しいプロジェクト** をクリックしてください
 * ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/nonkit/led** を検索してインポートします。
+* **https://github.com/nonkit/microbit-led** を検索してインポートします。
 
 ## このプロジェクトを編集します ![ビルド ステータス バッジ](https://github.com/nonkit/led/workflows/MakeCode/badge.svg)
 
@@ -16,7 +16,7 @@ MakeCode でこのリポジトリを編集します。
 
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
-* **https://github.com/nonkit/led** を貼り付けてインポートをクリックしてください
+* **https://github.com/nonkit/microbit-led** を貼り付けてインポートをクリックしてください
 
 ## ブロックのプレビュー
 
